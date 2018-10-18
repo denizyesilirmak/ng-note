@@ -9,7 +9,7 @@ import { AppComponent } from './app.component';
 import { HttpModule } from '@angular/http';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyBL4zikMsclmHLrDRvKNd80oBSMEHH84-w",
+  apiKey: "",
   authDomain: "ng-note.firebaseapp.com",
   databaseURL: "https://ng-note.firebaseio.com",
   storageBucket: "ng-note.appspot.com",
